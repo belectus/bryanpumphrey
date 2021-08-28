@@ -1,6 +1,5 @@
-### Hi there 👋, Bryan Pumphrey
+### Bryan Pumphrey
 #### UX/UI Design 
-![UX/UI Design ](https://media-exp1.licdn.com/dms/image/C5616AQHUt8vuP7DXuQ/profile-displaybackgroundimage-shrink_200_800/0/1608401762716?e=1635379200&v=beta&t=zs0fpaP9VRvxuwhs8r1WZDjsarXMSGdJVhf8cOKn5Iw)
 
 I am a newly minted UX/UI Design Graduate I spent the majority of my educational life
 balancing the abstract and concrete portions of my mind
@@ -8,7 +7,7 @@ Balance in all things is important The function should not
 only meet fashion but their intermingling should be as
 natural as a leaf blowing in a nice breeze
 
-Skills: Tools: Figma, Zeplin , Google Docs, Microsoft Office 365, Miro, Lookback
+##Skills and Exprience: Tools: Figma, Zeplin , Google Docs, Microsoft Office 365, Miro, Lookback
 
 - 🔭 I’m currently working on User Experience Design 
 - 👯 I’m looking to collaborate on Design Projects 
