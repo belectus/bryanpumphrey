@@ -1,4 +1,4 @@
-### Bryan Pumphrey
+### Hi, I'm Bryan 👋🏾👨🏾‍💻
 #### UX/UI Design 
 
 I am a newly minted UX/UI Design Graduate I spent the majority of my educational life
